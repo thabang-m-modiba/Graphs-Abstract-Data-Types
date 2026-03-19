@@ -10,7 +10,11 @@
   ### Two main categories of a Graph
   * Directed Graphs - The pair $(u, v)$ of edges is ordered, with $u$ preceding $v$.
   * Undericted Graphs - The pair $(u, v)$ is not ordered. This implies that $(u, v) = (v, u)$
+  ### Other types of graphs
+  * Weighted Graphs
+  * Unweighted Graphs
+  * Cyclil Graphs
+  * Acyclic Graphs
+  * Connected Graphs
+  * Disconnected Graph
 </p>
-```mermaid
-    A - B
-```
