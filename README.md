@@ -20,7 +20,7 @@ Not your usual bar or line graph 😄.
 * The ⭐<u>in-degree</u> and ⭐<u>out degree</u> of a vertex v are the number of the incoming and outgoing edges of v, and are denoted by <u>indeg(v)</u> and <u>outged(v)</u>, respectively.
 
 ## Core Operations of a Graph ADT
-* <code>adjacent(G, x, y)</code>
+* <code>adjacent(G, x, y)</code> - Tests whether there is an edge from vertex $x$ to vertex $y$.
 * <code>neighbors(G, x)</code>
 * <code>add_vertex(G, x)</code>
 * <code>remove_vertex(G, x)</code>
