@@ -11,4 +11,4 @@
   * Directed Graphs - The pair $(u, v)$ of edges is ordered, with $u$ preceding $v$.
   * Undericted Graphs - The pair $(u, v)$ is not ordered. This implies that $(u, v) = (v, u)$
 </p>
-```mermaid: A - B```
+'''mermaid: A - B'''
