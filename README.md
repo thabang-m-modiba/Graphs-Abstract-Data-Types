@@ -6,15 +6,13 @@
 <p>
   A Graph data structure consists of a finite <b>set of vertices</b>(also called nodes or points), together with a <b>set of edges</b>(also called links or ,ines) that connect these vertices. A Graph can be formally defined as $G = (V, E)$, where $V$ is a set of vertices and $E$ is a set of edges.
 </p>
-<p>
-  ### Two main categories of a Graph
-  * Directed Graphs - The pair $(u, v)$ of edges is ordered, with $u$ preceding $v$.
-  * Undericted Graphs - The pair $(u, v)$ is not ordered. This implies that $(u, v) = (v, u)$
-  ### Other types of graphs
-  * Weighted Graphs
-  * Unweighted Graphs
-  * Cyclil Graphs
-  * Acyclic Graphs
-  * Connected Graphs
-  * Disconnected Graph
-</p>
+### Two main categories of a Graph
+* Directed Graphs - The pair $(u, v)$ of edges is ordered, with $u$ preceding $v$.
+* Undericted Graphs - The pair $(u, v)$ is not ordered. This implies that $(u, v) = (v, u)$
+### Other types of graphs
+* Weighted Graphs
+* Unweighted Graphs
+* Cyclil Graphs
+* Acyclic Graphs
+* Connected Graphs
+* Disconnected Graph
